@@ -1,0 +1,32 @@
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light";
+}
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.main-content {
+  margin-top: 50px;
+}
+.payment-minus {
+  color: crimson;
+}
+.payment-plus {
+  color: limegreen;
+}
+.payment-row {
+  cursor: pointer;
+}
+.totals {
+  margin: 20px 0;
+}
+.caret.caret-up {
+  border-top-width: 0;
+  border-bottom: 4px solid #000000;
+}
+.pointer {
+  cursor: pointer;
+}
+.week-link {
+  font-size: 0.5em;
+}
